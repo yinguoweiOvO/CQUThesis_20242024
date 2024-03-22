@@ -12,7 +12,7 @@
 1. 修改目录、图表目录点线连接
 2. 修改引用标号左对齐
 3. 修改页眉页脚位置
-4. 修复跨页表格报错，跨页表格caption请使用\newcommand{\bilingualcaption}[3]{%\caption[#1]{#2 \\ Table \thechapter.\arabic{table} #3}%}
+4. 修复xltabular制作跨页表格报错，跨页表格caption请使用\newcommand{\bilingualcaption}[3]{%\caption[#1]{#2 \\ Table \thechapter.\arabic{table} #3}%}
 5. 修改mathcal字体与word不一致问题
 
 
