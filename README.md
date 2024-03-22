@@ -16,4 +16,4 @@
 5. 修改mathcal字体与word不一致问题
 
 
-贡献者@yinguoweiOvO、@DearCaat、@zfhxi、@HeTao
+贡献者@yinguoweiOvO、@![DearCaat]{https://github.com/DearCaat}、@![zfhxi]{https://github.com/zfhxi}、@![HeTao]{https://github.com/TankosTao}
